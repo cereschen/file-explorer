@@ -10,5 +10,5 @@
 - 导航
 
 ## 截图
-![Image text](https://raw.github.com/cereschen/repositpry/file-manager/main/screenshot.png)
+![Image text](https://raw.githubusercontent.com/cereschen/file-explorer/main/screenshot.png)
 
