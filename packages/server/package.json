@@ -1,0 +1,23 @@
+{
+  "name": "file-explorer-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "dev": "nodemon --watch dist serve.js",
+    "watch": "tsc -w",
+    "build":"tsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/adm-zip": "^0.4.33",
+    "@vueuse/core": "^4.2.2",
+    "adm-zip": "^0.5.3",
+    "chokidar": "^3.5.1",
+    "systeminformation": "^5.5.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
